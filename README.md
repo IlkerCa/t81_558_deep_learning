@@ -1,3 +1,5 @@
+Solution of the assignments can be found at /assignments
+
 # T81 558:Applications of Deep Neural Networks
 [Washington University in St. Louis](http://www.wustl.edu)
 
